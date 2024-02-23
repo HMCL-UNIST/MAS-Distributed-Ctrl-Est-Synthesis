@@ -7,6 +7,10 @@ This repository contains the simulation source code for distributed control and 
 </p>
 
 
+## Paper
+Under review, will be updated later.
+
+
 ## Overview
 The project focuses on Multi-Agent Systems (MAS) and aims to provide a comprehensive framework for the synthesis of distributed control and estimation. 
 
