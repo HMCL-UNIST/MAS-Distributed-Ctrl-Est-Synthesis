@@ -6,6 +6,8 @@ This repository contains the simulation source code for distributed control and 
   <img src="https://github.com/HMCL-UNIST/MAS-Distributed-Ctrl-Est-Synthesis/assets/32535170/36d362d9-e8ef-4af5-933f-69c900dc5487" alt="Fig2_5" style="width:45%;"/>
 </p>
 
+## Video
+Under review, will be updated later.
 
 ## Paper
 Under review, will be updated later.
