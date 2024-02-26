@@ -7,7 +7,9 @@ This repository contains the simulation source code for distributed control and 
 </p>
 
 ## Video
-![Cybernetics_240226-ezgif com-video-to-gif-converter](https://github.com/HMCL-UNIST/MAS-Distributed-Ctrl-Est-Synthesis/assets/161266065/83de47d8-ae7c-4d72-acfc-d86ac847134d)
+<p align="center">
+  ![Cybernetics_240226-ezgif com-video-to-gif-converter](https://github.com/HMCL-UNIST/MAS-Distributed-Ctrl-Est-Synthesis/assets/161266065/83de47d8-ae7c-4d72-acfc-d86ac847134d)
+</p>
 
 ## Paper
 Under review, will be updated later.
