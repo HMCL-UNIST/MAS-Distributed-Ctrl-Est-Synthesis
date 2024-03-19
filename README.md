@@ -1,10 +1,7 @@
 # MAS-Distributed-Ctrl-Est-Synthesis
 This repository contains the simulation source code for distributed control and estimation synthesis. It implements the proposed method alongside comparison baseline methods as described in our paper.
 
-<p align="center">
-  <img src="https://github.com/HMCL-UNIST/MAS-Distributed-Ctrl-Est-Synthesis/assets/32535170/86fd1f66-2679-436f-aff7-ee7b81753d65" alt="Fig1_v2" style="width:45%;"/>
-  <img src="https://github.com/HMCL-UNIST/MAS-Distributed-Ctrl-Est-Synthesis/assets/32535170/36d362d9-e8ef-4af5-933f-69c900dc5487" alt="Fig2_5" style="width:45%;"/>
-</p>
+
 
 ## Video
 [![Watch the video](https://img.youtube.com/vi/ex3GtpnULv4/maxresdefault.jpg)](https://www.youtube.com/watch?v=ex3GtpnULv4)
