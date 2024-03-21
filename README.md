@@ -4,6 +4,7 @@ This repository contains the simulation source code for distributed control and 
 
 
 ## Video
+Click the image below to watch on Youtube.
 [![Watch the video](https://img.youtube.com/vi/ex3GtpnULv4/maxresdefault.jpg)](https://www.youtube.com/watch?v=ex3GtpnULv4)
 
 ## Paper
